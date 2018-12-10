@@ -15,3 +15,7 @@ aiohttp
 *.jpg
 
 venv
+
+config/
+kurisutaru/
+.idea/
